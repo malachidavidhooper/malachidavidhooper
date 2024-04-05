@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @malachidavidhooper
+- 👀 I’m interested in machine learning, mathematics, and computer science theory!
+- 🌱 I’m currently learning how to code in Python and to perform basic scientific computing operations using Python.
+- 💞️ I’m not looking to collaborate right now.
+- 📫 How to reach me: You can reach me at linkedin.com/in/malachiusa
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I have no idea how to code (yet).
